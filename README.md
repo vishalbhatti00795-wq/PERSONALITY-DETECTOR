@@ -545,7 +545,6 @@ Some potential improvements for future versions include:
 * [ ] Add more detailed personality insights
 * [ ] Add prediction history
 * [ ] Add downloadable prediction reports
-* [ ] Deploy the application publicly
 * [ ] Use a larger and more representative real-world dataset
 * [ ] Build an API using FastAPI or Flask
 * [ ] Containerize the application using Docker
