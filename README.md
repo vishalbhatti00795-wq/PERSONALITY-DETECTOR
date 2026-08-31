@@ -1,5 +1,9 @@
 # 🧠 Personality Detector
 
+# 🧠 Personality Detector
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20App-success?style=for-the-badge)](https://personality-detector-elml.onrender.com)
+
 > A Machine Learning web application that predicts whether a person is **Introvert, Ambivert, or Extrovert** based on psychological, social, behavioral, and lifestyle traits.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
